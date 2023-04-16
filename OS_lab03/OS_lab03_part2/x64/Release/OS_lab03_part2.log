@@ -1,0 +1,10 @@
+﻿  Source.c
+D:\StudioProject\OS_lab03\OS_lab03_part2\Source.c(24,17): warning C4047: функция: "SIZE_T" отличается по уровням косвенного обращения от "void *"
+D:\StudioProject\OS_lab03\OS_lab03_part2\Source.c(24,13): warning C4024: CreateThread: различные типы для формального и фактического параметров 2
+D:\StudioProject\OS_lab03\OS_lab03_part2\Source.c(27,17): warning C4047: функция: "DWORD" отличается по уровням косвенного обращения от "void *"
+D:\StudioProject\OS_lab03\OS_lab03_part2\Source.c(27,13): warning C4024: CreateThread: различные типы для формального и фактического параметров 5
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  OS_lab03_part2.vcxproj -> D:\StudioProject\OS_lab03\x64\Release\OS_lab03_part2.exe
